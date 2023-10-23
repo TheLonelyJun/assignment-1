@@ -3,6 +3,13 @@ Flex-wrap: flex;
 text-align: center;
 justify-content: space-around;
 }
+ul { 
+display : flex; 
+Flex-wrap: flex;
+text-align: center;
+justify-content: space-around;
+  
+}
 ol {
   background-color: white;
   text-align: center;
