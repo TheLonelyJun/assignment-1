@@ -17,3 +17,7 @@ li {
   justify-content: space-around;
   flex: 1;
 }
+h1 {
+  position: sticky;
+  top: -1px;
+}
