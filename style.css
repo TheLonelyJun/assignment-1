@@ -3,3 +3,9 @@ Flex-wrap: flex;
 text-align: center;
 justify-content: space-around;
 }
+ol {
+  background-color: white;
+  text-align: center;
+  justify-content: space-around;
+  flex: 1;
+}
