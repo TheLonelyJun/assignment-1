@@ -1,12 +1,10 @@
 nav { display : flex; 
-Flex-wrap: flex;
 text-align: center;
 justify-content: space-around;
 }
 ul { 
 list-style-type: none;
 display : flex; 
-Flex-wrap: flex;
 text-align: center;
 justify-content: space-around;
   
