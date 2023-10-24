@@ -5,9 +5,9 @@ list-style-type: none;
 display : flex; 
 text-align: center;
 justify-content: space-around;
-<!-- Makes the text centered -->
 }
 
+<!-- Makes the text centered -->
 li {
   background-color: white;
   text-align: center;
