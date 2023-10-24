@@ -1,4 +1,5 @@
 <!-- Makes it so the links are spaced out and make them non-bulleted -->
+
 ul { 
 list-style-type: none;
 display : flex; 
@@ -6,12 +7,15 @@ text-align: center;
 justify-content: space-around;
 <!-- Makes the text centered -->
 }
+
 li {
   background-color: white;
   text-align: center;
   justify-content: space-around;
   flex: 1;
+  
 <!-- Makes it so when u scroll down pass one of the headers it stays there until you hit another header -->
+
 }
 h1 {
   background: gray;
