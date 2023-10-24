@@ -1,5 +1,5 @@
-
 <!-- Makes it so the links are spaced out, make them non-bulleted -->
+
 ul { 
 list-style-type: none;
 display : flex; 
@@ -14,8 +14,9 @@ li {
   text-align: center;
   justify-content: space-around;
   flex: 1;
-  ]
-<!-- Makes it so when u scroll down pass one of the headers it stays there until you hit another header -->
+}
+
+  <!-- Makes it so when u scroll down pass one of the headers it stays there until you hit another header -->
 
 }
 h1 {
