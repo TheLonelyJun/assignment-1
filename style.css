@@ -1,17 +1,18 @@
+/* Makes the links centered and makes it non-bulleted*/
 ul { 
 list-style-type: none;
 display : flex; 
 text-align: center;
 justify-content: space-around;
 }
-
+/* Makes the links seperated on the same line*/
 li {
   background-color: white;
   text-align: center;
   justify-content: space-around;
   flex: 1;
 }
-
+/* Makes it so that when one header is scrolled pass it still be there */
 }
 h1 {
   background: gray;
