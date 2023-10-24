@@ -13,7 +13,7 @@ li {
   flex: 1;
 }
 /* Makes it so that when one header is scrolled pass it still be there */
-}
+
 h1 {
   background: gray;
   border-bottom: 1px solid #989ea4;
