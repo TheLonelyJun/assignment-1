@@ -1,6 +1,5 @@
 
 <!-- Makes it so the links are spaced out, make them non-bulleted -->
-
 ul { 
 list-style-type: none;
 display : flex; 
