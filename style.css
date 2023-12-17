@@ -51,9 +51,9 @@ h3 {
 }
 .item-list{
     max-width: 800px;
-	width: 20px;
+	width: 800px;
 	max-length: 800px;
-	length: 20px;
+	length: 800px;
 	display: flex;
 	scroll-behavior: smooth;
 	overflow: auto;
